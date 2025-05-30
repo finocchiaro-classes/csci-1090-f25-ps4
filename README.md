@@ -1,4 +1,4 @@
-# Problem Set 5
+# Problem Set 4
 If you think you see an error or typo, let me know! I will announce any corrections on Canvas.
 
 The deliverables for this problem set are the following:
@@ -141,7 +141,7 @@ The average chance of rain was 0.60.
 
 ---
 
-## Deadline: Tuesday, October 1, 2024, at 11:59pm EST
+## Deadline: Wednesday, October 8, 2025, at 11:59pm EST
 
 ## Deliverables
 
